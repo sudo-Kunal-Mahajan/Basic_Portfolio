@@ -9,4 +9,4 @@
 3. Remove the remote origin
 4. Add your own GitHub Repo as remote and push.
 
-** Heavly relied on [DopeFolio](https://github.com/rammcodes/Dopefolio).
+**Heavly relied on [DopeFolio](https://github.com/rammcodes/Dopefolio).
